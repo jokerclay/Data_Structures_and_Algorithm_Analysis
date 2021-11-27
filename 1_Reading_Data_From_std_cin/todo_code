@@ -1,0 +1,32 @@
+
+----------------------------------------
+BAD EXAMPLE 
+----------------------------------------
+
+for each input data value
+{
+    read input value
+    process input value
+
+}
+
+exit program
+
+
+
+
+
+
+
+
+----------------------------------------
+GOOD EXAMPLE
+----------------------------------------
+
+try to read some data
+whlie(get data to process){
+        process input value
+        try to read next input value
+    }
+
+
